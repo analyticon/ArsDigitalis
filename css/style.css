@@ -33,7 +33,7 @@
 			Fallback for browsers that don't support pseudo elements.
 		*/
 
-		background: url('images/bg.jpg');
+		background: gray;
 	}
 	/*
 		Email Link
@@ -58,9 +58,10 @@
 				Default background is a weird gradient so I've set it to stretch to
 				100% in both directions. If you replace it with a photo or something,
 				set background-size to "cover".
+				background: url('images/bg.jpg');
 			*/
 
-			background: url('images/bg.jpg');
+			background: gray;
 			background-size: 100% 100%;
 		}
 
