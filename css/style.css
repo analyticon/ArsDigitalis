@@ -35,8 +35,16 @@
 
 		background: url('images/bg.jpg');
 	}
-
-		body:before
+	/*
+		Email Link
+	*/
+	#email header span.byline a {
+		font-weight: bold;
+		color: #aaa;
+		text-decoration: none;
+	}
+	
+	body:before
 		{
 			content: '';
 			position: fixed;
