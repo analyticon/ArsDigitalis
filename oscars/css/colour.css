@@ -1,0 +1,43 @@
+.colour { color: #E84E41; }
+a {	color:#E84E41; }
+a:hover{ color:#95A5A6; }
+a:focus {color:#E84E41; }
+::selection { background: #E84E41; color: #fff; }
+::-moz-selection { background: #E84E41; color: #fff; }
+
+/**** TOOLTIP ****/
+.tooltip-inner { background-color:#E84E41; }
+.tooltip.top .tooltip-arrow {  border-top-color: #E84E41; }
+
+/**** CIRCLE LINK ****/
+.circle-link { background:#E84E41; }
+
+/**** MENU ****/
+.header { background: #fff; color: #555; }
+.header.tiny { background: #fff; }
+
+/**** STACK SLIDER BUTTON****/
+.st-wrapper nav span:before { background: #dc4e2a; }
+
+/**** TEAM BOX COLOUR ****/
+.grida figcaption { background:#E84E41; }
+
+/**** WORK - HOVER BG - LOAD MORE HOVER - LIGHTBOX BAR ****/
+.thumbnail-caption{ background: #E84E41;}
+.grid-loadMore:hover{ color:#E84E41!important; }
+.autoGrid-nav{ background: #E84E41; }
+
+/**** BAR - BIG STATS ****/
+#bigstats { background: #E84E41; }
+
+/**** BAR - CLIENTS ****/
+#Section-Colour { background: #E84E41; }
+
+/**** PRICING TABLE CIRCLE COLOUR ****/
+#pricing-table h3 span { background: #BE382A; }
+
+/**** CONTACT SECTION CONTACT BUTTON HOVER COLOUR ****/
+#ajax-contact-form input.btn { background:#E84E41!important; color:#fff!important;}
+#ajax-contact-form input.btn:hover { background:#95A5A6!important; color:#fff!important; }
+
+#status {background-image:url(../img/status-red.gif);}
