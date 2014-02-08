@@ -159,11 +159,11 @@ blockquote { border-left:4px solid #8e939a!important; color:#8e939a!important; p
 /**** TYPOGRAPHY ****/
 h1, h2, h3,h4,h5,h6 { font-family: 'Open Sans', sans-serif; color:#5a5f66!important; }
 h1 {
-    font-size: 6.67em;
-    font-weight: 200;
-    letter-spacing: -2px;
-    line-height: 100px;
-    margin-bottom: 30px;
+	font-size: 3em;
+	font-weight: bold;
+	letter-spacing: -2px;
+	line-height: 100px;
+	margin-bottom: 30px;
 }
 h2 {
     font-size: 1.88em;
