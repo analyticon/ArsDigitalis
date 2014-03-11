@@ -41,7 +41,7 @@ $(window).load(function(){
     }
     else{
             $(".portfolio-grid ul li").hover(function(){
-                $(this).find(".item-info-overlay").fadeTo(250, 0.8);
+                $(this).find(".item-info-overlay").fadeTo(250, 0.9);
                 }, function() {
                     $(this).find(".item-info-overlay").fadeTo(250, 0);
             });

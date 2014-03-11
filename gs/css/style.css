@@ -35,7 +35,7 @@ CSS overview:
                       RESET
 ---------------------------------------------------*/
 pre,code{
-    font-family:"Times New Roman", Times, serif;
+    font-family: ""georgia"", Times, serif;
     white-space:pre;
     padding:20px;
     letter-spacing: 0.1em;
@@ -76,7 +76,7 @@ html, body {
 ::-moz-selection{ color: #fff; background: #707070; }
 ::selection { color: #fff; background: #707070; }
 body {
-    font-family: noticia-text, garamond, georgia, serif;
+    font-family: pt-serif, "georgia", serif;
     font-size: 12px;
     line-height: 17px;
     color: #676767;
@@ -111,7 +111,7 @@ h6{
     line-height: 17px;
 }
 h1.title, h2.title, h3.title, h4.title, h5.title, h6.title {
-    font-family: noticia-text, garamond, georgia, serif;
+    font-family: pt-serif, "georgia", serif;
     font-size:22px;
     line-height: 20px;
     font-weight: 300;
@@ -152,7 +152,7 @@ strong, b {
 }
 input, textarea, select {
     outline: medium none;
-    font-family:  noticia-text, garamond, georgia, serif;
+    font-family:  pt-serif, "georgia", serif;
     font-size:12px;
     color: #bbb;
     border: 1px solid #ddd;
@@ -320,7 +320,7 @@ img, iframe {
 #primary-menu ul li a {
     text-decoration: none;
     font-size: 13px;
-    font-family: noticia-text, garamond, georgia, serif;
+    font-family: pt-serif, "georgia", serif;
     font-weight: 400;
     color: #676767;
     padding: 17px 15px;
@@ -406,7 +406,7 @@ img, iframe {
     border-bottom: 0px solid #eee;
 }
 .section-title .title, .section-title .title a  {
-    font-family: noticia-text, garamond, georgia, serif;
+    font-family: pt-serif, "georgia", serif;
     display: inline;
     word-spacing: 5px;
 }
@@ -418,12 +418,12 @@ img, iframe {
     margin: 0;
 }
 .section-title h1.title span {
-    font-family: noticia-text, garamond, georgia, serif;
+    font-family: pt-serif, "georgia", serif;
     font-weight: 300;
     color: #aaa;
 }
 .section-title p {
-    font-family: noticia-text, garamond, georgia, serif;
+    font-family: pt-serif, "georgia", serif;
     font-weight: 300;
     font-size: 15px;
     line-height: 27px;
@@ -451,7 +451,7 @@ img, iframe {
 }
 #footer h3 {
     font-size: 11px;
-    font-family: noticia-text, garamond, georgia, serif;
+    font-family: pt-serif, "georgia", serif;
     font-weight: 400;
     color: #fff;
     display: block;
@@ -465,7 +465,7 @@ img, iframe {
     margin-bottom:15px;
 }
 #footer ul li .date {
-    font: normal 11px/20px noticia-text, garamond, georgia, serif;
+    font: normal 11px/20px pt-serif, "georgia", serif;
     display: block;
 }
 #footer-content {
@@ -647,7 +647,7 @@ div.arrow {
     margin-bottom: 20px;
 }
 .services h2 {
-    font-family: noticia-text, garamond, georgia, serif;
+    font-family: pt-serif, "georgia", serif;
     font-size:15px;
     line-height: 20px;
     font-weight: 700;
@@ -925,7 +925,7 @@ ul.colored-counter-list > li:before {
 }
 .item-info h3, .item-info-overlay h3 {
     font-size: 15px;
-    font-family: noticia-text, garamond, georgia, serif;
+    font-family: pt-serif, "georgia", serif;
     font-style: normal;
     font-weight: 300;
     line-height: 17px;
@@ -1235,13 +1235,13 @@ ul.item-nav li.all a {
     overflow: hidden;
 }
 #contact-intro h1.title {
-    font-family: noticia-text, garamond, georgia, serif;
+    font-family: pt-serif, "georgia", serif;
     font-size:22px;
     line-height: 28px;
     font-weight: 700;
 }
 #contact-intro p {
-    font-family: noticia-text, garamond, georgia, serif;
+    font-family: pt-serif, "georgia", serif;
     font-weight: 300;
     font-size: 22px;
     line-height: 27px;

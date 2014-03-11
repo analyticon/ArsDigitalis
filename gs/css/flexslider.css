@@ -36,8 +36,8 @@ html[xmlns] .slides { display: block; }
 .flex-direction-nav { height: 0; }
 .flex-direction-nav li a { background: url(../images/arrows.png) no-repeat scroll 0 0; bottom: 0px; width: 37px; height: 37px; position: absolute; text-indent: -999em; }
 .flex-direction-nav li a:hover { }
-.flex-direction-nav li .prev { left: 3px; margin-bottom:200px; background-position: 0px 0px; }
-.flex-direction-nav li .next { right: 3px;margin-bottom:200px; background-position: -38px 0px; }
+.flex-direction-nav li .prev { left: 3px; margin-bottom:150px; background-position: 0px 0px; }
+.flex-direction-nav li .next { right: 3px;margin-bottom:150px; background-position: -38px 0px; }
 .flex-direction-nav li .disabled { opacity: .3; filter:alpha(opacity=30); cursor: default; }
 /* Control Nav */
 .flex-control-nav {    width: 100%; position:absolute; top: 15px; text-align:center; }
@@ -49,10 +49,10 @@ html[xmlns] .slides { display: block; }
 /* Index page top FlexSlider Necessary Styles
 *********************************/
 .slideshow-container { width: 700px; margin: 0 0 0px 0; padding: 0 0 0px 0; border-bottom: 1px solid #eee; margin-left: auto; margin-right: auto;}
-#index-slider { height: 370px;}
+#index-slider { height: 300px;}
 
 @media only screen and (min-width: 768px) and (max-width: 959px) {
-.slideshow-container, #index-slider { width: 700px; height: auto; }
+.slideshow-container, #index-slider { width: 700px; height: 400; }
 .flex-direction-nav li .prev { left: 3px; margin-bottom:130px; background-position: 0px 0px; }
 .flex-direction-nav li .next { right: 3px;margin-bottom:130px; background-position: -38px 0px; }
 }
