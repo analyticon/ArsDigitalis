@@ -35,7 +35,7 @@ CSS overview:
                       RESET
 ---------------------------------------------------*/
 pre,code{
-    font-family: ""georgia"", Times, serif;
+    font-family: "georgia", Times, serif;
     white-space:pre;
     padding:20px;
     letter-spacing: 0.1em;
