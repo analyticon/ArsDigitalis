@@ -942,7 +942,7 @@ ul.colored-counter-list > li:before {
 }
 .item-info h4, .item-info-overlay h4 {
     font-size:11px;
-    line-height: 14px;
+    line-height: 10px;
     color: #444;
     margin-bottom: 0;
 }
