@@ -9,10 +9,10 @@ a {
 }
 .fixed #primary-menu ul li a.current {    background-color: #2e94cb; }
 #footer a:hover {
-    color: #2e94cb;
+    color: #676767;
 }
 .tweets a:hover , #footer .tweets a:hover, .tweets .tweet_time a:hover, #footer .tweets .tweet_time a:hover {
-    color: #2e94cb;
+    color: #676767;
 }
 .photostream a:hover, #footer .photostream a:hover {
     background-color: #2e94cb;

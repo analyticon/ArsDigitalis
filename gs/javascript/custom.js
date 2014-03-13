@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-var color = "navyblue"; // tealgreen, orange, green, red, pink, purple, orange, navyblue, magenta, cream, blue, yellow
+var color = "grey"; // tealgreen, orange, green, red, pink, purple, orange, navyblue, magenta, cream, blue, yellow, grey
 var css_url = "css/colors/color-" + color + ".css";
 $('head').append('<link rel="stylesheet" href="' + css_url + '" type="text/css" />');
 })
