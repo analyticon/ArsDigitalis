@@ -932,8 +932,7 @@ ul.colored-counter-list > li:before {
 .item-info h3, .item-info-overlay h3 {
     font-size: 25px;
     font-family: pt-serif, "georgia", serif;
-    font-style: normal;
-    font-weight: 300;
+    font-weight: 700;
     line-height: 25px;
     margin-bottom: 0;
 }
@@ -945,13 +944,14 @@ ul.colored-counter-list > li:before {
     color: #fff;
     font-size: 25px;
 }
+
 .item-info-overlay h3.title a:hover {
-    color: #444;
+    color: white;
 }
 .item-info h4, .item-info-overlay h4 {
     font-size:15px;
     line-height: 15px;
-    color: #444;
+    color: white;
     margin-bottom: 0;
 }
 /*--------------------------------------------------
@@ -1075,6 +1075,7 @@ ul.colored-counter-list > li:before {
 .circle .item-container {
     width: 236px;
     height: 232px;
+    position: relative;
 }
 .circle .item-mask {
     background: url(../images/mask-circle.png) no-repeat 0 0 transparent;
@@ -1089,6 +1090,11 @@ ul.colored-counter-list > li:before {
 }
 .circle .item-info-overlay div {
     padding: 9%;
+    position: relative;
+	top: 50%;
+	margin-top: -90px;
+	height: 232px;
+	max-height: 170px;
 }
 .circle .item-info-overlay h3 {
     padding: 9% 9% 2% 9%;
