@@ -930,27 +930,25 @@ ul.colored-counter-list > li:before {
     float: left;
 }
 .item-info h3, .item-info-overlay h3 {
-    font-size: 25px;
+    font-size: 15px;
     font-family: pt-serif, "georgia", serif;
     font-style: normal;
     font-weight: 300;
-    line-height: 25px;
+    line-height: 17px;
     margin-bottom: 0;
 }
 .item-info h3.title a {
     color: #676767;
-    font-size: 25px;
 }
 .item-info-overlay h3.title a {
     color: #fff;
-    font-size: 25px;
 }
 .item-info-overlay h3.title a:hover {
     color: #444;
 }
 .item-info h4, .item-info-overlay h4 {
-    font-size:15px;
-    line-height: 15px;
+    font-size:11px;
+    line-height: 10px;
     color: #444;
     margin-bottom: 0;
 }
