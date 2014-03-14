@@ -208,8 +208,11 @@ a:hover {
 }
 
 .title img {
-	margin-top: 21px;
-	margin-bottom: 12px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+	/* margin-top: 21px; */
+	/* margin-bottom: 12px; */
 }
 
 img, iframe {
