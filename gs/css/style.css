@@ -930,19 +930,19 @@ ul.colored-counter-list > li:before {
     float: left;
 }
 .item-info h3, .item-info-overlay h3 {
-    font-size: 25px;
+    font-size: 19px;
     font-family: pt-serif, "georgia", serif;
     font-weight: 700;
-    line-height: 25px;
+    line-height: 19px;
     margin-bottom: 0;
 }
 .item-info h3.title a {
     color: #676767;
-    font-size: 25px;
+    font-size: 19px;
 }
 .item-info-overlay h3.title a {
     color: #fff;
-    font-size: 25px;
+    font-size: 19px;
 }
 
 .item-info-overlay h3.title a:hover {
@@ -951,8 +951,9 @@ ul.colored-counter-list > li:before {
 .item-info h4, .item-info-overlay h4 {
     font-size:15px;
     line-height: 15px;
-    color: white;
+    color: #444;
     margin-bottom: 0;
+    margin-top: 10px;
 }
 /*--------------------------------------------------
             PORTFOLIO THUMBNAIL HOVER
@@ -1091,7 +1092,7 @@ ul.colored-counter-list > li:before {
 .circle .item-info-overlay div {
     padding: 9%;
     position: relative;
-	top: 50%;
+	top: 55%;
 	margin-top: -90px;
 	height: 232px;
 	max-height: 170px;
