@@ -200,6 +200,7 @@ a {
 }
 a:hover {
     color: #444;
+    font-weight: 700;
 }
 .title, .title a {
     text-decoration: none;

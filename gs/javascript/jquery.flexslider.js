@@ -19,10 +19,10 @@ $(window).load(function() {
         animation: "fade",
         slideDirection: "horizontal",
         slideshow: true,
-        slideshowSpeed: 3500,
+        slideshowSpeed: 4500,
         animationDuration: 500,
         directionNav: true,
-        controlNav: true
+        controlNav: false
     });
 });
 
