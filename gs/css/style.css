@@ -199,13 +199,17 @@ a {
     outline:none;
 }
 a:hover {
-    color: #444;
+    color: #707070;
     font-weight: 700;
 }
 .title, .title a {
     text-decoration: none;
 }
 .title a:hover {
+}
+
+.title a:active {
+    text-decoration: underline;
 }
 
 .title img {
@@ -438,6 +442,11 @@ img, iframe {
     font-size: 15px;
     line-height: 27px;
 }
+
+.section-title p strong {
+text-shadow: 2px 2px 5px rgba(150, 150, 150, 1);
+}
+
 .section-title .section-nav {
 }
 .section-title .section-nav  ul {
@@ -1409,4 +1418,10 @@ ul.item-nav li.all a {
 .subtitle {
     font-size: 14px;
     text-align: center;
+}
+
+.image-align-center {
+    margin-left: 44%;
+    margin-right: 50%;
+
 }
