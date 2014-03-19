@@ -140,6 +140,8 @@ blockquote p {
 }
 p {
     margin-bottom: 14px;
+    font-size: 12px;
+    font-weight: 300;
 }
 p:last-child {
     margin-bottom: 0;
@@ -513,8 +515,8 @@ text-shadow: 2px 2px 5px rgba(150, 150, 150, 1);
 /*--------------------------------------------------
                       COLUMNS
 ---------------------------------------------------*/
-.one, .one-half, .two-third, .one-third, .one-fourth { float:left; position:relative; margin-right:4%; }
-.one { width: 100%; margin-right: 0; }
+.one-half, .two-third, .one-third, .one-fourth { float:left; position:relative; margin-right:4%; }
+.one { width: 70%; position:relative; margin-right: auto; margin-left: auto;}
 .one-half {    width: 48%; }
 .two-third { width: 65.33%; }
 .one-third  { width: 30.66%; }
@@ -1424,4 +1426,12 @@ ul.item-nav li.all a {
     margin-left: 44%;
     margin-right: 50%;
 
+}
+
+.one p {
+    margin-bottom: 14px;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 20px;
+    text-align: justify;
 }
