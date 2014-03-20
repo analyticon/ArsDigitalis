@@ -1428,10 +1428,32 @@ ul.item-nav li.all a {
 
 }
 
-.one p {
+
+
+.about-title {width: 70%; position:relative; margin-right: auto; margin-left: auto;
+font-family: pt-serif, "georgia", serif;
+}
+
+
+about-title h1,h2 {font-size: 20px;
+text-align: center;
+margin-top: 14px;
+font-weight: 700;
+}
+
+.about-title p {
     margin-bottom: 14px;
     font-size: 15px;
     font-weight: 300;
     line-height: 20px;
     text-align: justify;
+}
+
+ul.about-title {
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+    margin-bottom: 14px;
+    margin-left: 0px;
+    width: 100%;
 }

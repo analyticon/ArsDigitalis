@@ -34,7 +34,7 @@ html[xmlns] .slides { display: block; }
 /* .flex-caption {    z-index:500; position:absolute; bottom: 0px; left: 92px; background:#444; color:#fff; max-width: 70%; padding: 14px 20px; margin-bottom:0; } */
 /* Direction Nav */
 .flex-direction-nav { height: 0; }
-.flex-direction-nav li a { background: url(../images/arrows.png) no-repeat scroll 0 0; bottom: 0px; width: 37px; height: 37px; position: absolute; text-indent: -999em; }
+.flex-direction-nav li a { background: url(../images/arrows.png) no-repeat scroll 0 0; bottom: 0px; width: 38px; height: 38px; position: absolute; text-indent: -999em; }
 .flex-direction-nav li a:hover { }
 .flex-direction-nav li .prev { left: 3px; margin-bottom:150px; background-position: 0px 0px; }
 .flex-direction-nav li .next { right: 3px;margin-bottom:150px; background-position: -38px 0px; }
